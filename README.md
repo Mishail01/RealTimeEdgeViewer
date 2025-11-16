@@ -1,6 +1,6 @@
 # Real-Time Edge Detection Viewer 🔥
 
-**Real-Time Edge Detection Viewer** is a lightweight Android application that captures camera frames in real time, processes them in native C++ (NDK) using OpenCV, and displays processed frames immediately. This repository was built for the *Flam Assessment* and focuses on performance, readability, and a modular architecture.
+**Real-Time Edge Detection Viewer** is a lightweight Android application that captures camera frames in real time, processes them in native C++ (NDK) using OpenCV, and displays processed frames immediately. This repository focuses on performance, readability, and a modular architecture.
 
 ---
 
